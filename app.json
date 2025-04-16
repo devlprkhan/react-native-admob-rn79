@@ -1,4 +1,8 @@
 {
   "name": "NativeAdTestApp",
-  "displayName": "NativeAdTestApp"
+  "displayName": "NativeAdTestApp",
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-1940380438583180~5550136731",
+    "ios_app_id": "ca-app-pub-1940380438583180~3876325934"
+  }
 }
